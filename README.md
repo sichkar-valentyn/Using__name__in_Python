@@ -1,5 +1,5 @@
 # Using __name__ in Python
-Why do we need to use __name__ in Python?
+Why do we need to use __ name __ in Python?
 
 ### Reference to:
 [1] Valentyn N Sichkar. Example how and why to use __ name __ in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Using__name__in_Python (date of access: XX.XX.XXXX)
@@ -12,4 +12,4 @@ We can wrap the execution code by checking if it has the name "__ main __" and i
 ## Copyright (c) 2018 Valentyn N Sichkar
 ## github.com/sichkar-valentyn
 ### Reference to:
-[1] Valentyn N Sichkar. Example how and why to use __name__ in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Using__name__in_Python (date of access: XX.XX.XXXX)
+[1] Valentyn N Sichkar. Example how and why to use __ name __ in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Using__name__in_Python (date of access: XX.XX.XXXX)

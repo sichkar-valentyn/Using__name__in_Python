@@ -1,4 +1,15 @@
-
+# File: Using__name__in_Python.py
+# Description: Example how and why to use __ name __ in Python
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Example how and why to use __ name __ in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Using__name__in_Python (date of access: XX.XX.XXXX)
+        
+        
 def fib(k):
     if k == 0 or k == 1:
         return 1
